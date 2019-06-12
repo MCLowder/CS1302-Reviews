@@ -1,0 +1,37 @@
+CSCI 1302: Software Development
+63897
+Schedule: 	MTWR, 11:45-12:45, Hardman Hall 101
+		MTR: 1:00-2:00, Hardman Hall 101
+Prof Info: Mark Lowder, Graduate TA
+      H Hall 226, 	MTR 2:00 - 3:00
+      		W: 1:00 – 3:00
+      mcl10083@uga.edu
+TA Info: TBD
+Related Courses: 
+	Pre-requisites: CSCI 1301 and CS301Lab
+      Co-Requisite: CSCI 1730 (Optional)
+Piazza Link:
+	https://piazza.com/class/jwgp5xugu0y4zp
+Book Requirement: Java Foundations, 4th Edition *
+      Class sessions will require the use of laptops. These sessions will be group and only require one laptop per group, but in the even no one in a group has access to one, they are available for rent from the Miller Learning Center (https://mlc.uga.edu/technology/lending).
+      
+General Course Description:
+	This is an intermediate programming course teaching skills in software development using an object oriented programming language (Java 8). The course will be formatted as follows: the 11:45 sessions Monday, Tuesday, and Thursday will be lecture based and will introduce material to the class in a basic form. The 1:00 sessions later that same day will then ask the students to work in a group on an assignment asking them to apply that material at a higher level.
+	Wednesday sessions are reserved for review: most weeks can be considered weekly quizzes to ensure that the material is not simply being used from short-term recall, and will cover the material taught since the last review session. While MTR assignments will be group based, these will be individual. Wednesday’s will further be the days that midterms are held on, projects are assigned, and projects are due.
+Grading Scheme
+	15% Midterm 1			15% Project 1
+	15% Midterm 2			15% Project 2
+	20% Final Project			20% In-Class Activities
+Grading Policy:
+80-83: B-	83-87: B	87-90: B+	90-93: A-	93-100: A
+0-65: F		65-70: D	70-73: C-	73+77: C	77-80: C+
+Extra Credit Policy:
+	Extra credit should be assumed to not be offered. That being said, it may be possible to score over a hundred on assignments, either by more than a hundred points being on offer (not guaranteed), or by performing better than INCLUDE EXPLANATION HERE on the in-class assignments. Similarly, make-up assignments may be made available in the event of poor class-wide performance on an exam or project. Individual projects proposed in Office Hours will certainly not occur though.
+Attendance Policy: 
+      Attendance during the lecture sessions will not be recorded – however, this is a fast-moving course, and the material covered in the lecture sessions will be focuses for the activity sessions. As performance on the activity-sessions is part of your grade, attendance in those is mandatory, and it is in your best interests to attend the lecture sessions to prepare.
+Honor Policy:
+      As a University of Georgia student, you have agreed to abide by the University’s academic honesty policy, “A Culture of Honesty,” and the Student Honor Code. All academic work must meet the standards described in “A Culture of Honesty” found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+      NOTE: The Honor policy as it relates to code. While it is assumed that you will discuss code with groupmates during the in-class activities, this does not mean that code is exempt from the Honor Policy. Code should not be directly shared or copied, and attempts at doing so will be regarded as plagiarism.
+Disabilities Statement:
+ If you plan to request accommodations for a disability, please register with the Disability Resource Center.  They can be reached by visiting Clark Howell Hall, calling 706-542-8719 (voice) or 706-542-8778 (TTY), or by visiting http://drc.uga.edu
+
